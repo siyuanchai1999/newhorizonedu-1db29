@@ -5,8 +5,8 @@ sections:
   - section_id: features
     type: section_content
     background: white
-    image: images/finance.png
-    image_alt: App preview on a phone and tablet
+    image: images/finance.jpg
+    image_alt: Finance 
     title: 芝加哥大学校友领衔金融入门课
 
     content: >-
