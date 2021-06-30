@@ -1,38 +1,44 @@
 {
-    "title": "Azimuth",
+    "title": "NewHorizon",
     "path_prefix": "/",
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/NewHorizonLogo.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "首页",
                 "url": "/",
                 "style": "link"
             },
             {
-                "label": "Features",
-                "url": "/features",
+                "label": "宏观经济课程",
+                "url": "/econ_course",
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "金融课程",
+                "url": "/finance_course",
+                "style": "link"
+            },
+            {
+                "label": "团队",
                 "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Sign Up",
+                "label": "登录/注册",
                 "url": "/signup",
                 "style": "primary"
+            },
+            {
+                "label": "中文/EN",
+                "url": "/signup",
+                "style": "secondary"
             }
+                
         ]
     },
     "footer": {

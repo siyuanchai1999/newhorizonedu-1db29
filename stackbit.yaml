@@ -410,13 +410,29 @@ models:
         name: subtitle
         label: Subtitle
         description: The subtitle of the section
-      - type: list
-        name: actions
-        label: Action Buttons
-        items:
-          type: model
-          models:
-            - action
+      - type: image
+        name: image
+        label: Image
+        description: The image of the section
+      - type: string
+        name: image_alt
+        label: Image Alt Text
+        description: The alt text of the section image
+      - type: image
+        name: image2
+        label: Image2
+        description: The image of the section
+      - type: string
+        name: image_alt2
+        label: Image2 Alt Text
+        description: The alt text of the section image
+      # - type: list
+      #   name: actions
+      #   label: Action Buttons
+      #   items:
+      #     type: model
+      #     models:
+      #       - action
   section_faq:
     type: object
     label: FAQ Section
