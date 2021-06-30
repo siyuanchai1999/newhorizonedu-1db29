@@ -27,16 +27,6 @@
                 "label": "团队",
                 "url": "/pricing",
                 "style": "link"
-            },
-            {
-                "label": "登录/注册",
-                "url": "/signup",
-                "style": "primary"
-            },
-            {
-                "label": "中文/EN",
-                "url": "/signup",
-                "style": "secondary"
             }
                 
         ]
