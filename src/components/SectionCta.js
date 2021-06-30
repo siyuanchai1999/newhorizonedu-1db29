@@ -29,11 +29,11 @@ export default class SectionCta extends React.Component {
                       <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />
                     </div>
                   )} 
-                  {/* {_.get(section, 'image2', null) && (
+                  {_.get(section, 'image2', null) && (
                     <div className="cell block-buttons">
                       <img src={withPrefix(_.get(section, 'image2', null))} alt={_.get(section, 'image_alt2', null)} />
                     </div>
-                  )}  */}
+                  )} 
                   {/* {_.get(section, 'actions', null) && (
                   <div className="cell block-buttons">
                     <CtaButtons {...this.props} actions={_.get(section, 'actions', null)} />

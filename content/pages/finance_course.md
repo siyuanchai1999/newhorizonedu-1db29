@@ -42,7 +42,7 @@ sections:
 
       我们的导师团队安排如下
       
-      <ul>
+      <ul> 
         <li>Kyle学长
           <ul>
             <li>芝加哥大学本科经济，应用数学双专业</li>
@@ -93,6 +93,8 @@ sections:
     # actions:
     image: images/conselorWechat.jpg
     image_alt: 顾问微信
+    image2: images/wechatPlatformQR.png
+    image_alt2: 微信公众号
       # - label: Get Started
       #   url: '#'
       #   style: secondary
