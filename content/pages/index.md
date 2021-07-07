@@ -3,12 +3,12 @@ title: 首页
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/connection.png
     image_alt: App preview
-    title: 为留学生提供最优质的美国大学教育资源
+    title: 为留学生提供优质的美国教育资源平台
     content: >-
       我们提供来自美国top10学校教授的精品小班课程，助力大学申请。
-      同时，我们有常春藤级别的校友提供优质辅导课程。
+      同时，我们有常春藤级别的校友提供优质辅导课程，帮助同学们迈出职场第一步。
     # actions:  
     #   - label: Learn More
     #     url: /features
