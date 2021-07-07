@@ -346,24 +346,24 @@
 }
 
 .review-text {
-  padding-top: 2.25em;
+  padding-top: 0.25em;
   position: relative;
 
-  &:before {
-    color: $color-primary;
-    content: "\201C";
-    display: block;
-    font-size: 3.5em;
-    font-weight: bold;
-    left: 0;
-    line-height: 1;
-    position: absolute;
-    top: 0;
+  // &:before {
+  //   color: $color-primary;
+  //   content: "\201C";
+  //   display: block;
+  //   font-size: 3.5em;
+  //   font-weight: bold;
+  //   left: 0;
+  //   line-height: 1;
+  //   position: absolute;
+  //   top: 0;
 
-    .font-fira-sans & {
-      font-weight: 600;
-    }
-  }
+  //   .font-fira-sans & {
+  //     font-weight: 600;
+  //   }
+  // }
 }
 
 .review-footer {

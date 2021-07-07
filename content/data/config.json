@@ -24,6 +24,11 @@
                 "style": "link"
             },
             {
+                "label": "学习资料",
+                "url": "/resource",
+                "style": "link"
+            },
+            {
                 "label": "团队",
                 "url": "/pricing",
                 "style": "link"

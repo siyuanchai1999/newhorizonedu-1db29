@@ -9,7 +9,7 @@ sections:
     content: >-
       我们提供来自美国top10学校教授的精品小班课程，助力大学申请。
       同时，我们有常春藤级别的校友提供优质辅导课程。
-    # actions:
+    # actions:  
     #   - label: Learn More
     #     url: /features
     #     style: primary
@@ -86,14 +86,16 @@ sections:
     #   # semper libero id sodales.
     reviews:
       - author: Eric Widget
-        avatar: images/review1.jpg
-        avatar_alt: Eric Widget's photo
+        # avatar: images/review1.jpg
+        # avatar_alt: Eric Widget's photo
+        subtitle: >-
+          美国大学顶级教授资源
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          我们的教授来自芝加哥大学(University of Chicago)、西北大学 (Northwestern University)、宾夕法尼亚大学 (University of Pennsylvania) 等美国顶尖大学。他们给学生带来大学入门级别的课程和项目知道。
+        
       - author: Parsley Montana
-        avatar: images/review2.jpg
-        avatar_alt: Parsley Montana's photo
+        # avatar: images/review2.jpg
+        # avatar_alt: Parsley Montana's photo
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
@@ -104,6 +106,8 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
+
+
   - section_id: call-to-action
     type: section_cta
     title: 报名咨询

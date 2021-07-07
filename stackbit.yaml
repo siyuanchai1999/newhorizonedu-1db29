@@ -656,6 +656,10 @@ models:
       - type: string
         name: avatar_alt
         label: Author Image Alt Text
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section
       - type: text
         name: content
         label: Content
