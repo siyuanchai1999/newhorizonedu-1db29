@@ -134,7 +134,7 @@ sections:
   #   background: gray
   #   title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
+  title: NewHorizon Edu
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
