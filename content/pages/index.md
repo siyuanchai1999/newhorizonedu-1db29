@@ -26,7 +26,7 @@ sections:
         image_alt: Econ Course
         content: >-
           由芝加哥大学知名教授领衔授课，芝加哥大学经济系毕业生做课后辅导。帮助准备留美的高中生进一步了解了解宏观经济和货币政策。
-          课程注重理论和实践的结合，团队将辅导学生开展经济研究项目，并产出论文。
+          课程注重理论和实践的结合，团队将辅导学生开展经济研究项目，并产出论文，帮助学生冲刺大学申请。
         actions:
           - label: 了解详情
             url: /econ_course
@@ -89,23 +89,35 @@ sections:
         # avatar: images/review1.jpg
         # avatar_alt: Eric Widget's photo
         subtitle: >-
-          美国大学顶级教授资源
+          美国大学顶级教授 (US Professor Connection)
         content: >-
           我们的教授来自芝加哥大学(University of Chicago)、西北大学 (Northwestern University)、宾夕法尼亚大学 (University of Pennsylvania) 等美国顶尖大学。他们给学生带来大学入门级别的课程和项目知道。
         
-      - author: Parsley Montana
-        # avatar: images/review2.jpg
-        # avatar_alt: Parsley Montana's photo
+      - author: Eric Widget
+        # avatar: images/review1.jpg
+        # avatar_alt: Eric Widget's photo
+        subtitle: >-
+          精英社群(Elite Community)
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
-        avatar_alt: Jonquil Von Haggerston's photo
+          我们帮忙留学生连接常青藤级别学校的老师和校友资源。我们积极合作的院校有芝加哥大学，西北大学，斯坦福大学等等。
+          我也帮助在读大学生对接来自顶级公司的工作资源，比如JP Morgan，Morgan Stanley，Facebook等。
+
+      - author: Eric Widget
+        # avatar: images/review1.jpg
+        # avatar_alt: Eric Widget's photo
+        subtitle: >-
+          精品小课 (Boutique Course)
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          我们的课程由来自美国顶尖大学的教授或校友领衔。为保证授课质量，我们所有课的平均师生比小于1:3。
+
+      - author: Eric Widget
+        # avatar: images/review1.jpg
+        # avatar_alt: Eric Widget's photo
+        subtitle: >-
+          完整教育体系 (Integral Education System)
+        content: >-
+          我们的课程体系囊括经济/金融/计算机的入门微课和能与美国对接的主课。我们将最大限度的助力高中生申请大学并帮助大学生迈出职场第一步。
+      
 
 
   - section_id: call-to-action
