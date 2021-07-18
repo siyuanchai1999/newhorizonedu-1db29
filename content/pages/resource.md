@@ -36,3 +36,9 @@ layout: page
 #### 宝藏up主
 
 1. [巫师财经](https://space.bilibili.com/472747194?spm_id_from=333.788.b_765f7570696e666f.1)
+
+
+#### 精华资源
+
+以下资源免费提供预览版本，扫码联系课程顾问获取完整版密码。
+1. [期货与风险模型 预览版](/files/option_preview.pdf) [期货与风险模型 完整版](/files/option_locked.pdf)

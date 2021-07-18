@@ -134,6 +134,40 @@ sections:
       生于芝加哥大学浓厚的学术氛围和生机勃勃的创业环境，我们的项目承接芝加哥大学开放包容精神，致力于为留学生提供优质的资源平台。
       我们的教授课程连接高中生和美国大学，同时我们组建的社群帮助留学生迈出职场第一步。
 
+
+  - section_id: reviews
+    type: section_reviews
+    background: white
+    title: 科技与教育的融合
+    # subtitle: >-
+    #   # Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
+    #   # semper libero id sodales.
+    reviews:
+      - author: Eric Widget
+        # avatar: images/review1.jpg
+        # avatar_alt: Eric Widget's photo
+        subtitle: >-
+          量化因果分析 
+        content: >-
+          对申请公司和大学的数据做全方位统计，量化地分析同学背景、面试、成绩等因素对最后的结果影响。
+        
+      - author: Eric Widget
+        # avatar: images/review1.jpg
+        # avatar_alt: Eric Widget's photo
+        subtitle: >-
+          智能题库
+        content: >-
+          我们的智能题库根据学生对知识点掌握程度智能推荐难易不同的课程配套练习题。
+          我们的推荐系统采用协同过滤(Collaborative Filtering)，根据学生的具体表现和对历史数据的分析，推荐最适合同学的练习题。
+
+      - author: Eric Widget
+        # avatar: images/review1.jpg
+        # avatar_alt: Eric Widget's photo
+        subtitle: >-
+          学生注意力视频分析
+        content: >-
+          运用计算机视觉技术对学生上网课时视频进行分析，捕捉学生是否全程紧跟课堂，并在适当时机提醒教师增加互动性活动。
+
   - section_id: call-to-action
     type: section_cta
     title: 报名咨询
