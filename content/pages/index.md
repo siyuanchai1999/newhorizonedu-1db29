@@ -24,7 +24,7 @@ sections:
       - title: 宏观经济课程
         image: images/econFirstClass.png
         image_alt: Econ Course
-        content: >-
+        content: >- 
           由芝加哥大学知名教授领衔授课，芝加哥大学经济系毕业生做课后辅导。帮助准备留美的高中生进一步了解了解宏观经济和货币政策。
           课程注重理论和实践的结合，团队将辅导学生开展经济研究项目，并产出论文，帮助学生冲刺大学申请。
         actions:
@@ -168,15 +168,15 @@ sections:
         content: >-
           运用计算机视觉技术对学生上网课时视频进行分析，捕捉学生是否全程紧跟课堂，并在适当时机提醒教师增加互动性活动。
 
-  - section_id: call-to-action
-    type: section_cta
-    title: 报名咨询
-    # subtitle: This is an optional description for the call to action block.
-    # actions:
-    image: images/conselorWechat.jpg
-    image_alt: 顾问微信
-    image2: images/wechatPlatformQR.png
-    image_alt2: 微信公众号
+  # - section_id: call-to-action
+    # type: section_cta
+    # title: 报名咨询
+    # # subtitle: This is an optional description for the call to action block.
+    # # actions:
+    # image: images/conselorWechat.jpg
+    # image_alt: 顾问微信
+    # image2: images/wechatPlatformQR.png
+    # image_alt2: 微信公众号
   # - section_id: recent-posts
   #   type: section_posts
   #   background: gray

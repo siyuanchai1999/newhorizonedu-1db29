@@ -40,11 +40,80 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/NewHorizonLogo.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "title": "NewHorizon",
+                "content": "[关于我们](/team)"
             },
+
+            {
+                "type": "footer_text",
+                "image": "images/conselorWechat.jpg",
+                "image_url": "/",
+                "image_alt": "Conselor",
+                "title": "课程顾问微信",
+                "content": ""
+            },
+
+            {
+                "type": "footer_text",
+                "image": "images/wechatPlatform.jpg",
+                "image_url": "/",
+                "image_alt": "wechatPlatformQR",
+                "title": "新视野微信公众号",
+                "content": ""
+            }
+
+        ],
+        "has_nav": false,
+        "_comments_nav_links": [
+            {
+                "label": "Terms of Service",
+                "url": "/terms-of-service",
+                "style": "link"
+            },
+            {
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link"
+            }
+        ],
+
+        "content": "&copy; NewHorizon. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>.",
+    
+        "_comments" : [
+            {
+                "type": "footer_nav",
+                "title": "Community",
+                "nav_links": [
+                    {
+                        "label": "Twitter",
+                        "url": "https://twitter.com/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "twitter",
+                        "icon_position": "left"
+                    },
+                    {
+                        "label": "LinkedIn",
+                        "url": "https://www.linkedin.com/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "linkedin",
+                        "icon_position": "left"
+                    },
+                    {
+                        "label": "GitHub",
+                        "url": "https://github.com/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "github",
+                        "icon_position": "left"
+                    }
+                ]
+            },
+            
             {
                 "type": "footer_nav",
                 "title": "Company",
@@ -118,21 +187,7 @@
                 ],
                 "submit_label": "Subscribe"
             }
-        ],
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Terms of Service",
-                "url": "/terms-of-service",
-                "style": "link"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
-            }
-        ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
+        ]
     },
     "domain": "https://newhorizonedu-1db29.netlify.app"
 }

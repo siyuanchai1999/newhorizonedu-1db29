@@ -8,7 +8,8 @@ import {htmlToReact} from '../utils';
 export default class Footer extends React.Component {
     render() {
         return (
-            <footer id="colophon" className="site-footer">
+            // <footer id="colophon" className="block cta-block bg-accent outer">
+            <footer className="block cta-block bg-accent">
               {_.get(this.props, 'data.config.footer.sections', null) && (
                 (_.size(_.get(this.props, 'data.config.footer.sections', null)) > 0) && (
                 <div className="footer-top outer">
