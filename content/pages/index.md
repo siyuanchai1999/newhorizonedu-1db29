@@ -118,7 +118,21 @@ sections:
         content: >-
           我们的课程体系囊括经济/金融/计算机的入门微课和能与美国对接的主课。我们将最大限度的助力高中生申请大学并帮助大学生迈出职场第一步。
       
+  - section_id: features
+    type: section_content
+    background: gray
+    image: images/globalConnection.png
+    image_alt: Global 
+    title: 我们的故事
 
+    content: >-
+      “我会全力支持我自己学生的创业项目”芝加哥大学经济教授 Kataro Yoshida 在和我们第一次会面时如是说道。
+
+      作为我们的项目导师，Yoshida教授不仅高屋建瓴地帮我们把握发展还方向由点及面的帮我们连接资源。
+
+      导师的风格体现着芝加哥大学经济系开放、包容、勇于打破人类知识和沟通壁垒的精神。正是这种精神孕育了超过30位诺贝尔经济学奖得主和无数的创业项目。
+      生于芝加哥大学浓厚的学术氛围和生机勃勃的创业环境，我们的项目承接芝加哥大学开放包容精神，致力于为留学生提供优质的资源平台。
+      我们的教授课程连接高中生和美国大学，同时我们组建的社群帮助留学生迈出职场第一步。
 
   - section_id: call-to-action
     type: section_cta
